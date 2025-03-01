@@ -13,15 +13,9 @@ This project uses Machine Learning to classify the presence of heart disease bas
 
 ```
 AI-Heart-Disease-Classification/
-│── dataset/               # Contains heart disease dataset
-│── models/                # Saved machine learning models
-│── notebooks/             # Jupyter notebooks for EDA & training
-│── src/                   # Source code for model training & evaluation
-│   ├── data_preprocessing.py  
-│   ├── train_model.py  
-│   ├── evaluate.py  
-│── requirements.txt       # Required Python libraries
-│── README.md              # Project documentation
+│── Heart Disease Classification.ipynb   # Jupyter notebook for the project
+│── Ch3.ClevelandData.xlsx               # Dataset file
+│── README.md                            # Project documentation
 ```
 
 ## 📊 Dataset
