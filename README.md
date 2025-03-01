@@ -94,11 +94,6 @@ Precision, Recall, and F1-score are used to evaluate performance.
 - Implementing deep learning models  
 - Deploying as a web application  
 
-## 📝 License
-
-This project is open-source and available under the **MIT License**.
-
-## 👨‍💻 Author
 
 **[Syed Ashfaquddin](https://www.linkedin.com/in/syedashfaquddin/)**  
 
