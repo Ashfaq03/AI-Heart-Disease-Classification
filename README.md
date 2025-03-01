@@ -100,7 +100,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Ashfaq03**  
+**[Syed Ashfaquddin](https://www.linkedin.com/in/syedashfaquddin/)**  
 
 Feel free to contribute or suggest improvements! 🚀
 
